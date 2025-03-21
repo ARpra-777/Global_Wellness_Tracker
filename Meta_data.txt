@@ -1,0 +1,17 @@
+Current Health Expenditure (% of GDP): Shows the percentage of a country’s GDP allocated to health expenditure.
+
+Life Expectancy at Birth (Total Years):The average number of years a newborn is expected to live, assuming age-specific mortality rates remain constant.
+
+Maternal Mortality: The number of maternal deaths per 100,000 live births.
+
+Infant Mortality Rate:The number of infant deaths (under 1 year) per 1,000 live births.
+
+Neonatal Mortality Rate: The number of deaths of children under 28 days of age per 1,000 live births.
+
+Under-5 Mortality Rate: The number of deaths of children under 5 years of age per 1,000 live births.
+
+Prevalence of HIV (% of population): The percentage of the population aged 15-49 years living with HIV.
+
+Incidence of Tuberculosis (per 100,000 people):The number of incidence of tuberculosis per 100,000 people.
+
+Prevalence of Undernourishment (% of population):The percentage of the population whose caloric intake is below the minimum required for a healthy life.
